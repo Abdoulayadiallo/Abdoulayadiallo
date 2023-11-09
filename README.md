@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdoulayadiallo
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in data science, web and mobile development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on flutter,ionic,spring boot
 - 📫 How to reach me ...
 
 <!---
